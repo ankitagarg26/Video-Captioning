@@ -1,4 +1,4 @@
-# Video-Captioning
+# Predicting Visual Relationship
 
 A machine Learning project to generate captions for video frames indicating the relationship between the objects in the video.
 
